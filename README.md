@@ -1,1 +1,25 @@
-# DavidRen
+# 👋 Hi, I’m David Ren
+I’m a data science student at the University of Michigan interested in a career in machine learning and data analytics, looking for an internship for Summer 2025.
+
+## About
+📚 I'm currently learning Data Structures and Algorithms, Linear Algebra, Probability, and Ethics of AI.
+
+🔭 I'm currently working on course projects (through EECS 281), leetcode problems, and personal projects.
+
+📫 How to reach me: 
+- Email: davidren@umich.edu
+- LinkedIn: https://www.linkedin.com/in/davidyren/
+
+
+<!---
+snootdoots/DavidRen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+--->
